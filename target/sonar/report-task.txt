@@ -1,0 +1,7 @@
+organization=gaspargonzalez06
+projectKey=gaspargonzalez06_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21873
+dashboardUrl=https://sonarcloud.io/dashboard?id=gaspargonzalez06_ProyectoJavaMaven
+ceTaskId=AXrBWJLizB3y1Nwx5wFj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXrBWJLizB3y1Nwx5wFj

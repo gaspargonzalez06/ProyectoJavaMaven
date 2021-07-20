@@ -5,9 +5,9 @@
     <version>1.0</version>
     <packaging>jar</packaging>
     <properties>
-            <sonar.projectKey>gaspargonzalez06_ProyectoJavaMaven</sonar.projectKey>
-            <sonar.organization>gaspargonzalez06</sonar.organization>
-            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>gaspargonzalez06_ProyectoJavaMaven</sonar.projectKey>
+        <sonar.organization>gaspargonzalez06</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     
 </project>
